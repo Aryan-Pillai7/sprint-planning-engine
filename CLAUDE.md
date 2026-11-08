@@ -32,7 +32,7 @@ Do not add a frontend. Do not add authentication.
 - Commit and push directly to `main`. Do not create pull requests.
 - Make as many commits as needed, with clear messages, and push freely.
 - Do not force-push, rewrite history, or delete branches. If something seems risky, stop and tell the owner.
-- Every commit must be authored only by Aryan Pillai <aryanpillai.105@gmail.com>. Do not add `Co-Authored-By` or any Claude attribution lines to commits or other messages.
+- Every commit must be authored only by Aryan-Pillai7 <aryanpx.007@gmail.com>, the identity GitHub links to the account. Do not add `Co-Authored-By` or any Claude attribution lines to commits or other messages.
 - Use the repository already in the working directory. If it has no `origin` remote, stop and tell the owner.
 
 ## Docker and file location
